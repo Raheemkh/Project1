@@ -4,7 +4,7 @@ public class CarDemo {
 	public static void main(String[]  args) {
 	HybridCar ob=new HybridCar();
 	ob.drive();
-	ob.cngKit();
+	ob.cngkit();
 	ob.petrolKit();
 }
 }

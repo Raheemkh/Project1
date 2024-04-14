@@ -12,7 +12,7 @@ public class HybridCar implements CngCar,PetrolCar{
 	}
 
 	@Override
-	public void cngkit() {
+	public void cngkit(){
 		// TODO Auto-generated method stub
 		System.out.println("using cngkit to drive hybrid");
 	}
